@@ -1,6 +1,6 @@
-# quarkus-virtual-threads
+# Quarkus with virtual threads from Java 20
 
-This project uses Quarkus Framework, JAVA 20.
+This project uses Quarkus Framework + Java 20.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
